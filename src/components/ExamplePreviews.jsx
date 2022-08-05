@@ -21,6 +21,21 @@ function ExamplePreviews() {
       url: "https://github.com/A7abhilash",
     },
     {
+      title: "Code House - Apps on Google Play",
+      description:
+        "Find accurate list of programming tutorials that are the splendid & trustworthy.",
+      thumbnail:
+        "https://play-lh.googleusercontent.com/Fby_o-inaAbVYACxjFFDPYui1twGLSwfRFoccnRpJoK7-qwizljtWOoWwT0Y3bHL_g",
+      url: "https://play.google.com/store/apps/details?id=com.a7abhilash.codehouse",
+    },
+    {
+      title: "Track My Attendance - Apps on Google Play",
+      description: "Manage your college attendance and never go off the track.",
+      thumbnail:
+        "https://play-lh.googleusercontent.com/dOBMzes3lJCsIaWMidnr0mq_jtJiEfReYmJOu00kivgMNHRbyl6kpJlXO46Nd4bBSnM",
+      url: "https://play.google.com/store/apps/details?id=com.a7abhilash.trackMyAttendance",
+    },
+    {
       title: "FindCoder | Welcome",
       description:
         "A central location to find coders. Collab or hire coders with no middleman. An open platform to hire coders based on skills and projects. Showcase your work! Participate in challenges and win exciting prizes and goodies. Improve your portfolio and get interview ready with real world knowledge.",
@@ -46,7 +61,7 @@ function ExamplePreviews() {
   ];
 
   return (
-    <div className="row my-5 bg-light p-2">
+    <div className="row my-5 p-2">
       <div className="col-12 border-bottom">
         <h4 className="text-center">Example Previews</h4>
       </div>

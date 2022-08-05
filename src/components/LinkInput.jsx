@@ -38,7 +38,7 @@ function LinkInput({ handleSubmit, loading }) {
             disabled={loading}
             style={{ marginLeft: 10 }}
           >
-            Search
+            Take a Glance
           </button>
         </div>
       </div>
