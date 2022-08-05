@@ -6,7 +6,7 @@ function LinkInput({ handleSubmit, loading }) {
   const clearSearch = () => setText("");
 
   return (
-    <div className="row my-5">
+    <div className="row mt-5">
       <div className="col-md-5 mx-2 mx-md-auto p-4 bg-light">
         <input
           type="text"
