@@ -9,7 +9,7 @@ function LinkInput({ handleSubmit, loading }) {
     <div className="row mt-5">
       <div className="col-md-5 mx-2 mx-md-auto p-4 bg-light">
         <input
-          type="text"
+          type="url"
           placeholder="Enter Link"
           className="form-control"
           value={text}
